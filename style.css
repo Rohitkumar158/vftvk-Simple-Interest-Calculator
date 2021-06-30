@@ -12,6 +12,5 @@ body {
 	width: 500px;
 	padding: 20px;
 	border-radius: 25px;
-	line-height-step: 1px;
-     text-align: center;
+	line-height:25px;
 }
